@@ -1,0 +1,11 @@
+savegames
+*.dat
+*.aas*
+*.proc
+maps/*.cm
+*.bak
+*.bkup
+*.zip
+*.lin
+maps/*autosave*
+*.pk4
