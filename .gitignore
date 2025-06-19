@@ -8,4 +8,4 @@ maps/*.cm
 *.zip
 *.lin
 maps/*autosave*
-*.pk4
+#*.pk4

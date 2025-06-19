@@ -2,14 +2,17 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "215" } 
-		KeyValue { "LastCameraAngle" "-33.2 232 0" } 
-		KeyValue { "LastCameraPosition" "-1203.65 826.188 352.034" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/cobblestones/cobblestones_victoriangrime6" } 
+		KeyValue { "EditTimeInSeconds" "5004" } 
+		KeyValue { "LastCameraAngle" "-8.4 181.4 0" } 
+		KeyValue { "LastCameraPosition" "-1917.52 591.487 219.318" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/door/metal/iron_door_cross" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 215 }
+		TotalSecondsEdited { 5004 }
+	}
+	SelectionSets
+	{
 	}
 	Layers
 	{
@@ -27,6 +30,88 @@ DarkRadiant Map Information File Version 2
 	NodeToLayerMapping
 	{
 		Node { 0 } // entity (world)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -117,13 +202,34 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // entity (InvisPotionsHard3)
 		Node { 0 } // entity (InvisPotionsEasy3)
 		Node { 0 } // entity (info_player_start_1)
-	}
-	SelectionSets
-	{
+		Node { 0 } // entity (atdm_streetlamp_spot_lit_1)
+		Node { 0 } // entity (ambient_skybox_fog)
+		Node { 0 } // entity (light_72)
+		Node { 0 } // entity (func_static_642)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (func_static_640)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (light_71)
+		Node { 0 } // entity (light_70)
+		Node { 0 } // entity (info_portalsky_3)
+		Node { 0 } // entity (func_static_1)
+		Node { 0 } // entity (func_static_2)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (atdm_lamp_electric_shaded02_lit_1)
 	}
 	SelectionGroups
 	{
 		SelectionGroup 1 { "" }
+		SelectionGroup 2 { "" }
+		SelectionGroup 3 { "" }
+		SelectionGroup 4 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -133,6 +239,19 @@ DarkRadiant Map Information File Version 2
 		Node { ( 0 3 ) ( 1 ) } // brush (Brush)
 		Node { ( 0 4 ) ( 1 ) } // brush (Brush)
 		Node { ( 0 5 ) ( 1 ) } // brush (Brush)
+		Node { ( 0 24 ) ( 2 ) } // patch (Patch)
+		Node { ( 0 28 ) ( 2 ) } // patch (Patch)
+		Node { ( 0 29 ) ( 2 ) } // patch (Patch)
+		Node { ( 0 30 ) ( 2 ) } // patch (Patch)
+		Node { ( 0 31 ) ( 2 ) } // patch (Patch)
+		Node { ( 0 32 ) ( 2 ) } // patch (Patch)
+		Node { ( 0 67 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 68 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 69 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 70 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 71 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 72 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 73 ) ( 3 ) } // brush (Brush)
 		Node { ( 1 ) ( 1 ) } // entity (ambient_world)
 		Node { ( 2 ) ( 1 ) } // entity (Objectives)
 		Node { ( 3 ) ( 1 ) } // entity (CompassEasy)
@@ -210,5 +329,20 @@ DarkRadiant Map Information File Version 2
 		Node { ( 75 ) ( 1 ) } // entity (InvisPotionsExpert3)
 		Node { ( 76 ) ( 1 ) } // entity (InvisPotionsHard3)
 		Node { ( 77 ) ( 1 ) } // entity (InvisPotionsEasy3)
+		Node { ( 80 ) ( 3 ) } // entity (ambient_skybox_fog)
+		Node { ( 81 ) ( 3 ) } // entity (light_72)
+		Node { ( 82 ) ( 3 ) } // entity (func_static_642)
+		Node { ( 83 ) ( 3 ) } // entity (func_static_640)
+		Node { ( 84 ) ( 3 ) } // entity (light_71)
+		Node { ( 85 ) ( 3 ) } // entity (light_70)
+		Node { ( 86 ) ( 3 ) } // entity (info_portalsky_3)
+		Node { ( 88 96 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 97 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 98 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 99 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 100 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 101 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 102 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 103 ) ( 4 ) } // brush (Brush)
 	}
 }
