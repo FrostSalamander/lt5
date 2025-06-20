@@ -1,18 +1,18 @@
 DarkRadiant Map Information File Version 2
 {
+	SelectionSets
+	{
+	}
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "5004" } 
-		KeyValue { "LastCameraAngle" "-8.4 181.4 0" } 
-		KeyValue { "LastCameraPosition" "-1917.52 591.487 219.318" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/door/metal/iron_door_cross" } 
+		KeyValue { "EditTimeInSeconds" "8186" } 
+		KeyValue { "LastCameraAngle" "-9.2 319 0" } 
+		KeyValue { "LastCameraPosition" "-2111.72 626.673 825.167" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/stone/sculpted/tiling_1d/trim_lime_floralgarland" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 5004 }
-	}
-	SelectionSets
-	{
+		TotalSecondsEdited { 8186 }
 	}
 	Layers
 	{
@@ -111,6 +111,56 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // patch (Patch)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
@@ -223,6 +273,20 @@ DarkRadiant Map Information File Version 2
 		Node { 0 } // brush (Brush)
 		Node { 0 } // brush (Brush)
 		Node { 0 } // entity (atdm_lamp_electric_shaded02_lit_1)
+		Node { 0 } // entity (func_static_3)
+		Node { 0 } // entity (func_static_4)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (light_1)
+		Node { 0 } // entity (atdm_lamp_electric_shaded02_lit_2)
+		Node { 0 } // entity (atdm_lamp_electric_shaded02_lit_3)
+		Node { 0 } // entity (func_static_5)
+		Node { 0 } // patch (Patch)
+		Node { 0 } // entity (func_static_6)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // brush (Brush)
+		Node { 0 } // entity (lt4_door_wood_1)
+		Node { 0 } // brush (Brush)
 	}
 	SelectionGroups
 	{
@@ -230,6 +294,11 @@ DarkRadiant Map Information File Version 2
 		SelectionGroup 2 { "" }
 		SelectionGroup 3 { "" }
 		SelectionGroup 4 { "" }
+		SelectionGroup 5 { "" }
+		SelectionGroup 6 { "" }
+		SelectionGroup 7 { "" }
+		SelectionGroup 8 { "" }
+		SelectionGroup 9 { "" }
 	}
 	SelectionGroupNodeMapping
 	{
@@ -252,6 +321,27 @@ DarkRadiant Map Information File Version 2
 		Node { ( 0 71 ) ( 3 ) } // brush (Brush)
 		Node { ( 0 72 ) ( 3 ) } // brush (Brush)
 		Node { ( 0 73 ) ( 3 ) } // brush (Brush)
+		Node { ( 0 96 ) ( 5 ) } // brush (Brush)
+		Node { ( 0 109 ) ( 6 ) } // patch (Patch)
+		Node { ( 0 110 ) ( 6 ) } // patch (Patch)
+		Node { ( 0 111 ) ( 6 ) } // patch (Patch)
+		Node { ( 0 112 ) ( 6 ) } // patch (Patch)
+		Node { ( 0 113 ) ( 6 ) } // patch (Patch)
+		Node { ( 0 114 ) ( 7 ) } // patch (Patch)
+		Node { ( 0 115 ) ( 7 ) } // patch (Patch)
+		Node { ( 0 116 ) ( 7 ) } // patch (Patch)
+		Node { ( 0 117 ) ( 7 ) } // patch (Patch)
+		Node { ( 0 118 ) ( 7 ) } // patch (Patch)
+		Node { ( 0 121 ) ( 8 ) } // patch (Patch)
+		Node { ( 0 122 ) ( 8 ) } // patch (Patch)
+		Node { ( 0 123 ) ( 8 ) } // patch (Patch)
+		Node { ( 0 124 ) ( 9 ) } // patch (Patch)
+		Node { ( 0 125 ) ( 8 ) } // patch (Patch)
+		Node { ( 0 126 ) ( 9 ) } // patch (Patch)
+		Node { ( 0 127 ) ( 8 ) } // patch (Patch)
+		Node { ( 0 128 ) ( 9 ) } // patch (Patch)
+		Node { ( 0 129 ) ( 9 ) } // patch (Patch)
+		Node { ( 0 130 ) ( 9 ) } // patch (Patch)
 		Node { ( 1 ) ( 1 ) } // entity (ambient_world)
 		Node { ( 2 ) ( 1 ) } // entity (Objectives)
 		Node { ( 3 ) ( 1 ) } // entity (CompassEasy)
@@ -336,13 +426,15 @@ DarkRadiant Map Information File Version 2
 		Node { ( 84 ) ( 3 ) } // entity (light_71)
 		Node { ( 85 ) ( 3 ) } // entity (light_70)
 		Node { ( 86 ) ( 3 ) } // entity (info_portalsky_3)
-		Node { ( 88 96 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 97 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 98 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 99 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 100 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 101 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 102 ) ( 4 ) } // brush (Brush)
-		Node { ( 88 103 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 146 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 147 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 148 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 149 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 150 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 151 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 152 ) ( 4 ) } // brush (Brush)
+		Node { ( 88 153 ) ( 4 ) } // brush (Brush)
+		Node { ( 90 ) ( 5 ) } // entity (func_static_3)
+		Node { ( 92 ) ( 5 ) } // entity (light_1)
 	}
 }
