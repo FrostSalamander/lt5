@@ -1,0 +1,15 @@
+textures/darkmod/weather/snow2_flurries_fs
+{
+
+	description "Use these snow2 materials for particle collisions. Run console command 'runParticle <mapname>' after dmapping."
+   deform particle tdm_snow2_flurries_fs
+   qer_editorimage textures/editor/snow
+   nonsolid
+   noshadows
+   {  //needed to emit particles
+      blend   filter
+      map      _white
+   }
+
+
+}

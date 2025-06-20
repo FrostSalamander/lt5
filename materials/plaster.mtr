@@ -1,0 +1,9 @@
+textures/darkmod/plaster/grunge_wall01
+{
+    stone
+    description	"vine_friendly"
+
+    qer_editorimage textures/darkmod/plaster/grunge_wall01_ed
+    diffusemap      textures/darkmod/plaster/grunge_wall01
+    bumpmap         textures/darkmod/plaster/grunge_wall01_local
+}
