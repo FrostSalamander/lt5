@@ -1,0 +1,6 @@
+skin dirt_circle_snow
+{
+    model models/darkmod/junk/dirt_circle01.lwo
+
+    textures/darkmod/nature/dirt/dirt_002_dark textures/darkmod/nature/snow/snow_rough01
+}
