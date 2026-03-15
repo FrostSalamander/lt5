@@ -1,0 +1,22 @@
+onion_fs
+{
+
+   surftype15
+   description "cloth"
+   
+   qer_editorimage models/darkmod/props/textures/onion
+
+   
+   {
+      blend   diffusemap
+   map   models/darkmod/props/textures/onion
+     
+ 
+   }  
+{       
+      blend specularmap   
+   map    models/darkmod/props/textures/onion_s
+   }
+
+
+}

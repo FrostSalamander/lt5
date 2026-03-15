@@ -1,0 +1,6 @@
+skin onion_shadowcasting
+{
+    model models/darkmod/kitchen/food/onion.lwo
+    
+    onion   onion_fs
+}
