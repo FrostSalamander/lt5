@@ -205198,7 +205198,7 @@ brushDef3
 "classname" "func_static"
 "name" "func_static_3088"
 "origin" "-1706.5 -530 360"
-"model" "models/map_specific/scaled/banner2_scaled3.ase"
+"model" "models/map_specific/scaled/banner2_scaled2.ase"
 "skin" "coat_of_arms4"
 "rotation" "0 1 0 -1 0 0 0 0 1"
 }
