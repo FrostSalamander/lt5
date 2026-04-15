@@ -1,0 +1,27 @@
+skin fs_coat_posh
+{
+    model models/darkmod/wearables/coat_commoner_hanging.lwo
+    
+    tunic_rough_greenish_ts     nobleman_tunic_shoulder_ts
+}
+
+skin fs_coat_purple
+{
+    model models/darkmod/wearables/coat_commoner_hanging.lwo
+    
+    tunic_rough_greenish_ts     models/md5/chars/nobles/nobleman1/tunic_purple_dark
+}
+
+skin fs_coat_red_satin
+{
+    model models/darkmod/wearables/coat_commoner_hanging.lwo
+    
+    tunic_rough_greenish_ts     models/md5/chars/nobles/nobleman1/tunic_red_satin
+}
+
+skin fs_coat_white
+{
+    model models/darkmod/wearables/coat_commoner_hanging.lwo
+    
+    tunic_rough_greenish_ts     models/md5/chars/nobles/nobleman1/tunic_white_ornate
+}
