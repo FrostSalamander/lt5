@@ -5,3 +5,12 @@ skin fs_table_tavern01_wtable1b
     textures/darkmod/wood/boards/wood_brown_dull01       textures/darkmod/wood/boards/tiling_1d/wtable1b
     textures/darkmod/wood/panels/wood_brown_dull01_panel textures/darkmod/wood/boards/tiling_1d/wtable1b
 }
+
+skin fs_pedestal01_mansion01_white
+{
+    model models/darkmod/furniture/tables/pedestal01_mansion01.lwo
+    
+    textures/darkmod/wood/panels/panel_carved_rectangles_01_walnut      textures/darkmod/wood/panels/panel_vase_painted_white
+    textures/darkmod/wood/panels/molding_walnut                         textures/darkmod/wood/panels/molding_white_painted
+    textures/darkmod/wood/boards/wood_brown_walnut02                    textures/darkmod/wood/boards/white_painted_wood01
+}
