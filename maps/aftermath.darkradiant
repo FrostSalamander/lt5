@@ -2,14 +2,14 @@ DarkRadiant Map Information File Version 2
 {
 	MapProperties
 	{
-		KeyValue { "EditTimeInSeconds" "1524138" } 
-		KeyValue { "LastCameraAngle" "8.8 191.2 0" } 
-		KeyValue { "LastCameraPosition" "-2009.33 -989.503 479.157" } 
-		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/plaster/stucco_01_nonshiny" } 
+		KeyValue { "EditTimeInSeconds" "1524211" } 
+		KeyValue { "LastCameraAngle" "5.2 116.8 0" } 
+		KeyValue { "LastCameraPosition" "-2132.52 -1140.28 520.903" } 
+		KeyValue { "LastShaderClipboardMaterial" "textures/darkmod/paint_paper/wallpaper_grunge_floral" } 
 	}
 	MapEditTimings
 	{
-		TotalSecondsEdited { 1524138 }
+		TotalSecondsEdited { 1524211 }
 	}
 	SelectionSets
 	{
@@ -21083,7 +21083,7 @@ DarkRadiant Map Information File Version 2
 		Node { 2 } // brush (Brush)
 		Node { 2 } // brush (Brush)
 		Node { 0 } // entity (atdm_afm_double_light_bronze_flute_white_lit_1)
-		Node { 0 } // entity (afm_bhm_chandelier_03_6)
+		Node { 0 } // entity (afm_bhm_chandelier_02_8)
 	}
 	SelectionGroups
 	{
