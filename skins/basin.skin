@@ -1,0 +1,6 @@
+skin fs_basin_white
+{
+    model models/map_specific/scaled/wash_basin_scaled2.ase
+    
+    textures/darkmod/stone/flat/smooth/marble_grey01     textures/darkmod/stone/flat/smooth/marble_white_001
+}
