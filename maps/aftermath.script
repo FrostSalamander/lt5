@@ -3,6 +3,7 @@ string BEGGAR = "beggar";
 string COG_KEY = "cog_key";
 string COG_LOCKED = "cog_locked";
 string INVENTOR_PANEL = "fs_door_wood_58";
+string SHOP_BELL = "func_shaking_1";
 
 void openGate(entity target, entity door, entity callscriptfunction)
 {
@@ -74,8 +75,28 @@ void controlLiftDoors(entity target, entity button, entity callscriptfunction)
     }
 }
 
+void takeBell()
+{
+    sys.getEntity(SHOP_BELL).remove();
+}
+
+void ringBell()
+{
+    entity shopBell = sys.getEntity(SHOP_BELL);
+    if (shopBell)
+    {
+        sys.trigger($atdm_start_alarm_1);
+        sys.trigger($func_shaking_1);
+        sys.wait(3);
+        sys.trigger($func_shaking_1);
+    }
+}
+
 // main - keep at bottom
 void main()
 {
     sys.waitFrame();
+
+    // stop the shop bell from shaking at map start
+    sys.trigger(sys.getEntity(SHOP_BELL));
 }
