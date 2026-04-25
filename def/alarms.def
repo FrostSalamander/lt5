@@ -2,12 +2,12 @@ sprGS_alarm_mild_fs
 {
 
 	"inherit"	"atdm:propagated_sound_base"
-	"vol"		"40"
-	"dur"		"500"
-	"alert_factor"	"3.5"
-	"alert_max"	"50"
+	"vol"		"50"
+	"dur"		"3"
+	"alert_factor"	"1"
+	"alert_max"	"18"
 	
-	"prop_to_friend" "1"
+	"prop_to_friend" "0"
 
 	"editor_usage"	"alternative sound for atdm:alarm_sound, intended to alert anyone within a few rooms."
 
