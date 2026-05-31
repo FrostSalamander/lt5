@@ -143759,11 +143759,11 @@ brushDef3
 brushDef3
 {
 ( 0 0 1 -260 ) ( ( 0.009765624854480849 0 0 ) ( 0 0.0390624994179234 0 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
-( 0 1 0 -36 ) ( ( 0.009765624854480849 0 -9.746093604771888 ) ( 0 0.03906249941792339 0 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
+( 0 1 0 -36 ) ( ( 0 0.009765624854480848 1.787109348369995 ) ( -0.03906249941792339 0 28.32031207799446 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
 ( 1 0 0 944 ) ( ( 0.009765624854480849 0 0 ) ( 0 0.0390624994179234 0 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
 ( 0 0 -1 196 ) ( ( 0.009765624854480849 0 0 ) ( 0 0.0390624994179234 0 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
-( 0 -1 0 32 ) ( ( 0.009765624854480851 0 9.082031114667192 ) ( 0 0.03906249941792339 0 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
-( -1 0 0 -962 ) ( ( 0.009765624854480849 0 0 ) ( 0 0.0390624994179234 0 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
+( 0 -1 0 32 ) ( ( 0 0.009765624854480848 1.787109348369995 ) ( -0.03906249941792339 0 -46.99218679976184 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
+( -1 0 0 -962 ) ( ( 0 0.009765624854480848 1.787109348369995 ) ( -0.03906249941792339 0 -10.66406234109309 ) ) "textures/darkmod/sliptip/stone/flat/concrete_cracked" 0 0 0
 }
 }
 // primitive 11611
