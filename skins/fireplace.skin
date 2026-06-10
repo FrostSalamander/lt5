@@ -1,0 +1,7 @@
+fs_heavy_rust_pocked01
+{
+	model "models/darkmod/mechanical/furnace_small_round.lwo"
+
+	"textures/darkmod/metal/flat/iron_rough"    "textures/darkmod/metal/flat/heavy_rust_pocked01"
+	"tdm_coals_hot"                             "textures/darkmod/metal/flat/heavy_rust_pocked01"
+}
