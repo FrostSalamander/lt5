@@ -146279,7 +146279,7 @@ brushDef3
 {
 ( 0 -0.7592566023652967 0.6507913734559686 180.4861409051219 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/bricks_old_worn_red_parallax" 0 0 0
 ( 0.6507913734559685 -0.7592566023652966 0 1560.163852631775 ) ( ( 0.01953125 0 4.547473508864641e-13 ) ( 0 0.01953125 -2.273736754432321e-13 ) ) "textures/darkmod/stone/brick/bricks_old_worn_red_parallax" 0 0 0
-( 0 0.7592566023652967 -0.6507913734559686 -185.6924718927697 ) ( ( 0.01953125 0 -2.842170943040401e-14 ) ( 0 0.01953125 0.46875 ) ) "textures/darkmod/wood/boards/roof_framework_boards_large_old_darkbrown" 0 0 0
+( 0 0.7592566023652967 -0.6507913734559686 -185.6924718927697 ) ( ( 0 -0.02972566146540018 -7.247958045112824 ) ( 0.0180821572580645 0 -47.79774113549598 ) ) "textures/darkmod/wood/boards/planks_floor_redwood_posh_scuffed" 0 0 0
 ( 0 -1 0 896 ) ( ( 0.01953125 0 -0.15625 ) ( 0 0.01953125 1.4210854715202e-14 ) ) "textures/darkmod/stone/brick/bricks_old_worn_red_parallax" 0 0 0
 ( -1 0 0 -1496 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/bricks_old_worn_red_parallax" 0 0 0
 ( 0 1 0 -944 ) ( ( 0.01953125 0 0 ) ( 0 0.01953125 0 ) ) "textures/darkmod/stone/brick/bricks_old_worn_red_parallax" 0 0 0
@@ -146988,7 +146988,7 @@ brushDef3
 {
 brushDef3
 {
-( 0 1 0 -896 ) ( ( 0.01808215725806451 0 -11.5212953629036 ) ( 0 0.0297256614654002 10.4129017554276 ) ) "textures/darkmod/wood/boards/old_worn_moldy_with_nails" 0 0 0
+( 0 1 0 -896 ) ( ( 0 -0.02972566146540018 4.646589664468053 ) ( 0.0180821572580645 0 -47.79774113549598 ) ) "textures/darkmod/wood/boards/planks_floor_redwood_posh_scuffed" 0 0 0
 ( 1 0 0 1352 ) ( ( 0.009765625000000007 0 -3.261718750000014 ) ( 0 0.01249999999999996 20.49609375 ) ) "textures/darkmod/plaster/tiling_1d/plaster_dirty01_brown" 0 0 0
 ( -1 0 0 -1600 ) ( ( 0.009765625 0 0 ) ( 0 0.009765625 0 ) ) "textures/darkmod/stone/brick/old_small_bricks_grey" 0 0 0
 ( 0 -1 0 880 ) ( ( 0.009765625 0 30.328125 ) ( 0 0.009765625 0.01953125 ) ) "textures/darkmod/stone/brick/bricks_old_worn_red_parallax" 0 0 0
